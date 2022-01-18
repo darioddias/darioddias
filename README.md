@@ -1,11 +1,11 @@
-<h1 align="center">Hey! I'm Dario Dias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> :)</h1>
+<h1 align="center">Hey! I'm Dario Dias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 <p align="center">
   
  <p align="center"> <img src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" /> </p>
 
 <hr/>
 
-I'm an undergrad student studying programming and software development. I love to code, design and create! In my free time I like tinkering with code, listening to music and doodling. <br>
+I'm an undergrad student studying programming and software development. I love to code, design and create! In my free time I like tinkering with code, listening to music and doodling :) <br>
 
 
 
