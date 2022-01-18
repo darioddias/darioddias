@@ -1,10 +1,15 @@
-## Hey! Im Dario Dias :)
+<h1 align="center">Hey! I'm Dario Dias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> :)</h1>
+<p align="center">
+  
+ <p align="center"> <img src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" /> </p>
 
-I'm an undergrad student studying programming and software development. In my free time I love listening to **music** and **doodling.** <br>
+<hr/>
 
-![image](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+I'm an undergrad student studying programming and software development. I love to code, design and create! In my free time I like tinkering with code, listening to music and doodling. <br>
 
-I have experience in:
+
+
+My Skills:
  - java
  - javascript
  - html
@@ -16,9 +21,10 @@ I have experience in:
 I’m looking to collaborate on projects to increase my knowledge of programming languages! <br>
  
 Feel free to reach out to me! <br> 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15">](https://www.linkedin.com/in/dario-dias/)
-[<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" width="15" height="15">](https://open.spotify.com/user/dkd0290)
-[<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="30" height="15">](dario2dias@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="15" height="15">](dario2dias@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15">](https://www.linkedin.com/in/dario-dias/) 
+[<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" width="15" height="15">](https://open.spotify.com/user/dkd0290) 
+
 
 
 
