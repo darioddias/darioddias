@@ -1,103 +1,138 @@
-<h1 align="center">Hey! I'm Dario Dias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
-<p align="center">
-  
- <p align="center"> <img src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" /> </p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dario Dias | Portfolio</title>
+    <style>
+      /* Add your CSS styles here */
+      * {
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
 
-<hr/>
+      body {
+        background-color: #f8f8f8;
+      }
 
-I'm an undergrad student studying programming and software development. I love to code, design and create! In my free time I like tinkering with code, listening to music and doodling :) <br>
+      header {
+        background-color: #333;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+      }
 
+      h1 {
+        font-size: 2rem;
+        font-weight: 400;
+        letter-spacing: 2px;
+      }
 
+      nav ul {
+        display: flex;
+        list-style: none;
+      }
 
-### My Skills:
+      nav li {
+        margin-left: 2rem;
+      }
 
+      nav a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        transition: color 0.3s ease;
+      }
 
-- Programming Languages
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-   &emsp;
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-</p>
+      nav a:hover {
+        color: #f1c40f;
+      }
 
-- Frontend Development
-<p align="left">
-  &emsp;
-  <a href="https://www.w3schools.com/html/" target="_blank"> 
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-  
+      main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+      }
 
-</p>
+      section {
+        margin-bottom: 2rem;
+      }
 
-- Databases
-<p align="left"> 
- &emsp;
-  <a href="https://www.mysql.com/about/legal/logos.html" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
- &emsp;
-  <a href="https://aws.amazon.com/what-is-aws/" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://github.com/darioddias" target="_blank">
-    <img alt="gitub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a> 
-</p>  
+      h2 {
+        font-size: 1.5rem;
+        font-weight: 400;
+        margin-bottom: 1rem;
+      }
 
-- Software/Tools 
+      ul {
+        list-style: none;
+        margin-left: 1rem;
+      }
 
- &emsp;
-![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
- &emsp;
-![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
- &emsp;
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
- &emsp;
+      li {
+        margin-bottom: 0.5rem;
+      }
 
+      li a {
+        color: #333;
+        text-decoration: none;
+        font-weight: bold;
+        transition: color 0.3s ease;
+      }
 
-  
+      li a:hover {
+        color: #f1c40f;
+      }
 
+      footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1rem;
+      }
 
-<hr/>
+      footer p {
+        margin: 0;
+        font-size: 0.8rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Dario Dias</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
 
-I’m looking forward to collaborating on projects to increase my knowledge of programming languages! <br>
- 
-Feel free to reach out to me!
-<p align="left">
- &emsp;
-<a href="dario2dias@gmail.com" target="_blank">
-    <img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
- &emsp;
-<a href="https://www.linkedin.com/in/dario-dias/" target="_blank">
-    <img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
- &emsp;
-<a href="https://open.spotify.com/user/dkd0290" target="_blank">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
- </a> 
-</p>
+    <main>
+      <section id="about">
+        <h2>About Me</h2>
+        <p>My name is Dario Dias and I am a Computer Science student. In my free time, I enjoy coding and gaming.</p>
+      </section>
 
+      <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Java</li>
+          <li>JavaScript</li>
+          <li>C++</li>
+          <li>Python</li>
+          <li>HTML</li>
+          <li>CSS</li>
+        </ul>
+      </section>
 
+      <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li><a href="#">Project 1</a></li>
+          <li><a href="#">Project 2</a></li>
+          <li><a href
