@@ -7,10 +7,7 @@
 
 I'm an undergrad student studying programming and software development. I love to code, design and create! In my free time I like tinkering with code, listening to music and doodling :) <br>
 
-
-
 ### My Skills:
-
 
 - Programming Languages
 <p align="left"> 
@@ -46,8 +43,6 @@ I'm an undergrad student studying programming and software development. I love t
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   </a> 
-  
-
 </p>
 
 - Databases
@@ -58,46 +53,4 @@ I'm an undergrad student studying programming and software development. I love t
   </a>
  &emsp;
   <a href="https://aws.amazon.com/what-is-aws/" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://github.com/darioddias" target="_blank">
-    <img alt="gitub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a> 
-</p>  
-
-- Software/Tools 
-
- &emsp;
-![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
- &emsp;
-![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
- &emsp;
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
- &emsp;
-
-
-  
-
-
-<hr/>
-
-I’m looking forward to collaborating on projects to increase my knowledge of programming languages! <br>
- 
-Feel free to reach out to me!
-<p align="left">
- &emsp;
-<a href="dario2dias@gmail.com" target="_blank">
-    <img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
- &emsp;
-<a href="https://www.linkedin.com/in/dario-dias/" target="_blank">
-    <img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
- &emsp;
-<a href="https://open.spotify.com/user/dkd0290" target="_blank">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
- </a> 
-</p>
-
-
+    <img alt="AWS" src
