@@ -87,10 +87,6 @@ I’m looking forward to collaborating on projects to increase my knowledge of p
 Feel free to reach out to me!
 <p align="left">
  &emsp;
-<a href="dario2dias@gmail.com" target="_blank">
-    <img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
- &emsp;
 <a href="https://www.linkedin.com/in/dario-dias/" target="_blank">
     <img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
